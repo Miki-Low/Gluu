@@ -1,6 +1,0 @@
-[webmin-noarch]
-name=Webmin - noarch
-baseurl=https://download.webmin.com/download/newkey/yum
-enabled=1
-gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-webmin-developers
-gpgcheck=1
